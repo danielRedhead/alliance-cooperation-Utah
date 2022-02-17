@@ -434,11 +434,7 @@ figure3 <- ggplot(data=figure3_data, aes(x=parameter, y=est, ymin=lower, ymax=up
    theme(axis.text=element_text(size=15, family = "Lusitana"), axis.title=element_text(size=15), legend.text=element_text(size=15))
 figure3
 
-<<<<<<< HEAD
 ggsave(figure3, filename = "./3-manuscript/figures/figure-4.png", device = "png", dpi = 800)
-=======
-ggsave(figure3, filename = "./3-manuscript/figures/figure-3.png", device = "png", dpi = 800)
->>>>>>> 0dc0cd6955be4b6060cb35116d0b5b06b21a87eb
 
 ############################################################################
 #                               GOF PLOT                                   #
