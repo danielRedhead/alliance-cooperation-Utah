@@ -1,7 +1,7 @@
 # alliance-cooperation-Utah
 
 
-Data and code associated with "Political Alliance Formation and Cooperation Networks in the Utah State Legislature" published in Human Nature
+Data and code associated with "Political Alliance Formation and Cooperation Networks in the Utah State Legislature" published in Human Nature (https://doi.org/10.1007/s12110-021-09420-w)
 ----------------------------
 
 # Requirements for analyses:
